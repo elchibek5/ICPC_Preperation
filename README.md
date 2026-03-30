@@ -1,20 +1,20 @@
 # ICPC Preparation
 
-This repository contains my **LeetCode solutions** used for **ICPC-style competitive programming practice** and technical interview preparation.
+This repository is my primary training ground for **ICPC-style competitive programming** and technical interview preparation. It tracks my transition from mastering data structures in Java to high-performance competitive logic in C++.
 
-The goal is consistent practice, clean implementations, and strong fundamentals across difficulty levels.
 
 ---
 
-## Structure
+## 📂 Structure
 
-```
-
-ICPC_Preperation/
-├── easy/
-├── medium/
-└── hard/
-
+```text
+ICPC_Preparation/
+├── Codeforces_Problems/   — Competitive programming & contest logic (C++)
+└── LeetCode_Problems/     — Interview prep & algorithmic foundations (Java)
+    └── Java/
+        ├── easy/          — Fundamentals & pattern recognition
+        ├── medium/        — Core data structures & algorithms
+        └── hard/          — Advanced logic & optimization
 ```
 
 - **easy** — fundamentals and pattern recognition  
@@ -25,26 +25,27 @@ ICPC_Preperation/
 
 ## Focus Areas
 
-- Arrays, Strings, Hashing  
-- Two Pointers & Sliding Window  
-- Stacks, Queues, Deques  
-- Trees & Graphs  
-- Binary Search  
-- Dynamic Programming  
+Competitive Logic: Number Theory, Combinatorics, and Graph Theory.
+
+Techniques: Bitmasking, Segment Trees, and Dynamic Programming.
+
+Performance: Fast I/O and optimized C++ implementations.
+
+Fundamentals: Array manipulation, Two Pointers, and Sliding Window.
 
 ---
 
-## Language
-
-- Java
+## Tech Stack
+- C++ (Competition / ICPC)
+- Java (Software Engineering / LeetCode)
 
 ---
 
 ## Notes
 
-- Solutions are written for learning and improvement.
-- Code may be refactored or optimized over time.
-- This repo reflects **ongoing training**, not polished library code.
+- This repo reflects ongoing training, not polished library code.
+
+- Solutions are frequently refactored for better time/space complexity.
 
 ---
 
