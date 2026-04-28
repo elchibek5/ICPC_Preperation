@@ -7,14 +7,14 @@ class Solution {
     }
 
     public void quickSort(int[] nums, int left, int right) {
-        if (left > right) {
+        if (left >= right) {
             return;
         }
 
         Random rand = new Random();
         int randIndex = rand.nextInt(left, right + 1);
         swap(nums, left, randIndex);
-        
+
         int pivot = nums[left];
         int storeIndex = left + 1;
         for (int i = left + 1; i <= right; i++) {
@@ -25,8 +25,14 @@ class Solution {
         }
 
         swap(nums, left, storeIndex - 1);
-        quickSort(nums, left, storeIndex - 2);
-        quickSort(nums, storeIndex, right);
+
+        int l = storeIndex - 2;
+        while (l >= left && nums[l] == pivot) l--;
+        quickSort(nums, left, l);
+
+        int r = storeIndex;
+        while (r <= right && nums[r] == pivot) r++;
+        quickSort(nums, r, right);
     }
 
     private static void swap(int[] nums, int i, int j) {
