@@ -1,36 +1,37 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        int n = nums.length;
+        if (nums.length <= 1) return nums;
+        quickSort(nums, 0, nums.length - 1);
+        return nums;
 
-        for (int i = 0; i < n; i++) {
-            nums[i] += 50000;
+    }
+
+    public void quickSort(int[] nums, int left, int right) {
+        if (left > right) {
+            return;
         }
 
-        int k = 100000;
-        int[] b = new int[n];
-        int[] c = new int[k + 1];
-
-        for (int i = 0; i <= k; i++) {
-            c[i] = 0;
+        Random rand = new Random();
+        int randIndex = rand.nextInt(left, right + 1);
+        swap(nums, left, randIndex);
+        
+        int pivot = nums[left];
+        int storeIndex = left + 1;
+        for (int i = left + 1; i <= right; i++) {
+            if (nums[i] < pivot) {
+                swap(nums, i, storeIndex);
+                storeIndex++;
+            }
         }
 
-        for (int i = 0; i < n; i++) {
-            c[nums[i]]++;
-        }
+        swap(nums, left, storeIndex - 1);
+        quickSort(nums, left, storeIndex - 2);
+        quickSort(nums, storeIndex, right);
+    }
 
-        for (int i = 1; i <= k; i++) {
-            c[i] += c[i - 1];
-        }
-
-        for (int i = n - 1; i >= 0; i--) {
-            b[c[nums[i]] - 1] = nums[i];
-            c[nums[i]]--;
-        }
-
-        for (int i = 0; i < n; i++) {
-            b[i] -= 50000;
-        }
-
-        return b;
+    private static void swap(int[] nums, int i, int j) {
+        int tmp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = tmp;
     }
 }
