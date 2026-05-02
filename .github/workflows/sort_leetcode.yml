@@ -1,0 +1,83 @@
+name: Auto Sort LeetCode Files
+on:
+  workflow_dispatch: # This allows you to run it manually with a single click
+
+jobs:
+  sort_and_rename:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Sorting Script
+        run: |
+          python -c '
+          import os
+          import re
+
+          # Mapping of your unnumbered files to their exact LeetCode problem numbers
+          problem_mapping = {
+              "MergeKSortedLists.java": 23,
+              "SudokuSolver.java": 37,
+              "TrappingRainWater.java": 42,
+              "N-Queens.java": 51,
+              "LargestRectangleinHistogram.java": 84,
+              "SlidingWindowMaximum.java": 239,
+              "Find Median from Data Stream.java": 295,
+              "ShortestSubarraywithSumatLeastK.java": 862,
+              "VerticalOrderTraversalBinaryTree.java": 987
+          }
+
+          # Update this path to match your folder structure exactly
+          target_dir = "LeetCode_Problems/Java"
+
+          if os.path.exists(target_dir):
+              files = [f for f in os.listdir(target_dir) if os.path.isfile(os.path.join(target_dir, f))]
+              for filename in files:
+                  filepath = os.path.join(target_dir, filename)
+                  
+                  # 1. Match files that already start with digits
+                  match = re.match(r"^(\d+)\.(.*)", filename)
+                  if match:
+                      num_str = match.group(1)
+                      rest_of_name = match.group(2).strip()
+                      
+                      new_num_str = num_str.zfill(4)
+                      new_name = f"{new_num_str}. {rest_of_name}"
+                      new_filepath = os.path.join(target_dir, new_name)
+                      
+                      if filepath != new_filepath:
+                          print(f"Renaming: {filename} -> {new_name}")
+                          os.rename(filepath, new_filepath)
+                          
+                  # 2. Match unnumbered files via lookup table
+                  elif filename in problem_mapping:
+                      prob_num = problem_mapping[filename]
+                      padded_num = str(prob_num).zfill(4)
+                      new_name = f"{padded_num}. {filename}"
+                      new_filepath = os.path.join(target_dir, new_name)
+                      
+                      print(f"Renaming: {filename} -> {new_name}")
+                      os.rename(filepath, new_filepath)
+          else:
+              print(f"Directory {target_dir} not found!")
+          '
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add LeetCode_Problems/Java/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "style: auto-sorted LeetCode files with 4-digit padding"
+            git push
+          fi
