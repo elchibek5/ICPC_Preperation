@@ -22,7 +22,7 @@ jobs:
           import os
           import re
 
-          # Lookup table for exact unnumbered files
+          # Explicit mapping for unnumbered files
           problem_mapping = {
               "MergeKSortedLists.java": 23,
               "SudokuSolver.java": 37,
@@ -43,10 +43,11 @@ jobs:
               "ContainerWithMostWater.java": 11
           }
 
-          def add_spaces_to_camel_case(text):
-              # Adds a space between a lowercase letter and an uppercase letter
-              # e.g., "AddTwoNumbers" -> "Add Two Numbers"
-              return re.sub(r"([a-z0-9])([A-Z])", r"\1 \2", text)
+          def format_title(text):
+              # Adds a space before capital letters in CamelCase words
+              text = re.sub(r"([a-z0-9])([A-Z])", r"\1 \2", text)
+              # Normalize multiple spaces down to a single space
+              return re.sub(r"\s+", " ", text).strip()
 
           target_dir = "LeetCode_Problems/Java"
 
@@ -57,53 +58,46 @@ jobs:
                           continue
 
                       filepath = os.path.join(root, filename)
-                      new_name = None
+                      base, ext = os.path.splitext(filename)
+                      
+                      # Initial extraction variables
+                      prob_num = None
+                      clean_title = base
 
-                      # Step 1: Clean up messy metadata prefixes
-                      messy_match = re.search(r"(?:^|\D)(\d+)\.\s*(.*)", filename)
-                      clean_match = re.match(r"^(\d+)\.?\s*(.*)", filename)
+                      # Check Case A: Lookup Mapping for exact filenames
+                      if filename in problem_mapping:
+                          prob_num = str(problem_mapping[filename]).zfill(4)
+                          clean_title = os.path.splitext(filename)[0]
 
-                      if messy_match and any(x in filename for x in ["Code", "Testcase"]):
-                          num_str = messy_match.group(1)
-                          rest_of_name = messy_match.group(2).strip()
-                          padded_num = num_str.zfill(4)
-                          
-                          # Split camelcase on the problem title
-                          base_title, ext = os.path.splitext(rest_of_name)
-                          spaced_title = add_spaces_to_camel_case(base_title)
-                          new_name = f"{padded_num}. {spaced_title}{ext}"
+                      else:
+                          # Check Case B: Extract any number present in the filename
+                          # Matches even messy strings like "Code Testcase Test Result 424.LongestRepeating"
+                          num_match = re.search(r"(\d+)", base)
+                          if num_match:
+                              extracted_num = num_match.group(1)
+                              
+                              # Avoid treating long numbers or years as LeetCode problem numbers
+                              if len(extracted_num) <= 4:
+                                  prob_num = extracted_num.zfill(4)
+                                  
+                                  # Remove the extracted digits and any surrounding dots/symbols/messy words
+                                  remainder = base.replace(extracted_num, "", 1)
+                                  for scrap in ["Code Testcase Test Result", "Code Testcase Testcase Test Result", ".", "-", "_"]:
+                                      remainder = remainder.replace(scrap, "")
+                                  clean_title = remainder.strip()
 
-                      elif clean_match:
-                          num_str = clean_match.group(1)
-                          rest_of_name = clean_match.group(2).strip()
+                      # Step 3: Parse and correct CamelCase spacing
+                      spaced_title = format_title(clean_title)
 
-                          if len(num_str) <= 4:
-                              padded_num = num_str.zfill(4)
-                              base_title, ext = os.path.splitext(rest_of_name)
-                              spaced_title = add_spaces_to_camel_case(base_title)
-                              new_name = f"{padded_num}. {spaced_title}{ext}"
-
-                      # Step 2: Use the manual unnumbered lookup table
-                      elif filename in problem_mapping:
-                          prob_num = problem_mapping[filename]
-                          padded_num = str(prob_num).zfill(4)
-                          
-                          base_title, ext = os.path.splitext(filename)
-                          spaced_title = add_spaces_to_camel_case(base_title)
-                          new_name = f"{padded_num}. {spaced_title}{ext}"
-
-                      # Step 3: Handle unmapped CamelCase files that start with no numbers
-                      elif not new_name and any(c.isupper() for c in filename):
-                          # Check if it has a match in our mapping even after removing spaces/extension
-                          clean_key = os.path.splitext(filename)[0].replace(" ", "")
-                          
-                          # Just format the CamelCase cleanly without a number if it is not in the lookup yet
-                          base_title, ext = os.path.splitext(filename)
-                          spaced_title = add_spaces_to_camel_case(base_title)
+                      # Reconstruct the correct file name format
+                      if prob_num:
+                          new_name = f"{prob_num}. {spaced_title}{ext}"
+                      else:
+                          # If there is no number, just clean up CamelCase spacing
                           new_name = f"{spaced_title}{ext}"
 
-                      # Apply rename if there is a change
-                      if new_name and filename != new_name:
+                      # Apply rename only if the name has changed
+                      if new_name != filename:
                           new_filepath = os.path.join(root, new_name)
                           print(f"Renaming: {filepath} -> {new_filepath}")
                           os.rename(filepath, new_filepath)
@@ -119,6 +113,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "style: sort and format CamelCase file names with spaces"
+            git commit -m "style: sort and format file names recursively in subfolders"
             git push
           fi
