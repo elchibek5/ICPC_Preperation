@@ -22,7 +22,7 @@ jobs:
           import os
           import re
 
-          # Mapping of your unnumbered files to their exact LeetCode problem numbers
+          # Lookup table for exact unnumbered files
           problem_mapping = {
               "MergeKSortedLists.java": 23,
               "SudokuSolver.java": 37,
@@ -32,42 +32,79 @@ jobs:
               "SlidingWindowMaximum.java": 239,
               "Find Median from Data Stream.java": 295,
               "ShortestSubarraywithSumatLeastK.java": 862,
-              "VerticalOrderTraversalBinaryTree.java": 987
+              "VerticalOrderTraversalBinaryTree.java": 987,
+              "AddTwoNumbers.java": 2,
+              "Binary Tree ZigzagLevelOrderTraversal.java": 103,
+              "BinaryTreeLevelOrderTraversal.java": 102,
+              "BinaryTreeLevelOrderTraversal2.java": 107,
+              "BinaryTreeRightSideView.java": 199,
+              "CapacityToShipPackagesWithinDDays.java": 1011,
+              "Combinations.java": 77,
+              "ContainerWithMostWater.java": 11
           }
 
-          # Base target directory
+          def add_spaces_to_camel_case(text):
+              # Adds a space between a lowercase letter and an uppercase letter
+              # e.g., "AddTwoNumbers" -> "Add Two Numbers"
+              return re.sub(r"([a-z0-9])([A-Z])", r"\1 \2", text)
+
           target_dir = "LeetCode_Problems/Java"
 
           if os.path.exists(target_dir):
-              # os.walk scans the main directory AND all subfolders (easy, medium, hard)
               for root, dirs, files in os.walk(target_dir):
                   for filename in files:
                       if not filename.endswith(".java"):
                           continue
 
                       filepath = os.path.join(root, filename)
-                      
-                      # 1. Check if the file already starts with digits
-                      match = re.match(r"^(\d+)\.(.*)", filename)
-                      if match:
-                          num_str = match.group(1)
-                          rest_of_name = match.group(2).strip()
+                      new_name = None
+
+                      # Step 1: Clean up messy metadata prefixes
+                      messy_match = re.search(r"(?:^|\D)(\d+)\.\s*(.*)", filename)
+                      clean_match = re.match(r"^(\d+)\.?\s*(.*)", filename)
+
+                      if messy_match and any(x in filename for x in ["Code", "Testcase"]):
+                          num_str = messy_match.group(1)
+                          rest_of_name = messy_match.group(2).strip()
+                          padded_num = num_str.zfill(4)
                           
-                          new_num_str = num_str.zfill(4)
-                          new_name = f"{new_num_str}. {rest_of_name}"
-                          new_filepath = os.path.join(root, new_name)
-                          
-                          if filepath != new_filepath:
-                              print(f"Renaming: {filepath} -> {new_filepath}")
-                              os.rename(filepath, new_filepath)
-                              
-                      # 2. Match unnumbered files via the lookup table
+                          # Split camelcase on the problem title
+                          base_title, ext = os.path.splitext(rest_of_name)
+                          spaced_title = add_spaces_to_camel_case(base_title)
+                          new_name = f"{padded_num}. {spaced_title}{ext}"
+
+                      elif clean_match:
+                          num_str = clean_match.group(1)
+                          rest_of_name = clean_match.group(2).strip()
+
+                          if len(num_str) <= 4:
+                              padded_num = num_str.zfill(4)
+                              base_title, ext = os.path.splitext(rest_of_name)
+                              spaced_title = add_spaces_to_camel_case(base_title)
+                              new_name = f"{padded_num}. {spaced_title}{ext}"
+
+                      # Step 2: Use the manual unnumbered lookup table
                       elif filename in problem_mapping:
                           prob_num = problem_mapping[filename]
                           padded_num = str(prob_num).zfill(4)
-                          new_name = f"{padded_num}. {filename}"
-                          new_filepath = os.path.join(root, new_name)
                           
+                          base_title, ext = os.path.splitext(filename)
+                          spaced_title = add_spaces_to_camel_case(base_title)
+                          new_name = f"{padded_num}. {spaced_title}{ext}"
+
+                      # Step 3: Handle unmapped CamelCase files that start with no numbers
+                      elif not new_name and any(c.isupper() for c in filename):
+                          # Check if it has a match in our mapping even after removing spaces/extension
+                          clean_key = os.path.splitext(filename)[0].replace(" ", "")
+                          
+                          # Just format the CamelCase cleanly without a number if it is not in the lookup yet
+                          base_title, ext = os.path.splitext(filename)
+                          spaced_title = add_spaces_to_camel_case(base_title)
+                          new_name = f"{spaced_title}{ext}"
+
+                      # Apply rename if there is a change
+                      if new_name and filename != new_name:
+                          new_filepath = os.path.join(root, new_name)
                           print(f"Renaming: {filepath} -> {new_filepath}")
                           os.rename(filepath, new_filepath)
           else:
@@ -82,6 +119,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "style: recursively sort LeetCode files in subfolders"
+            git commit -m "style: sort and format CamelCase file names with spaces"
             git push
           fi
