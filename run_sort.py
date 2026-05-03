@@ -1,0 +1,92 @@
+import os
+import re
+
+problem_mapping = {
+    "mergeksortedlists": 23,
+    "sudokusolver": 37,
+    "trappingrainwater": 42,
+    "nqueens": 51,
+    "largestrectangleinhistogram": 84,
+    "slidingwindowmaximum": 239,
+    "findmedianfromdatastream": 295,
+    "shortestsubarraywithsumatleastk": 862,
+    "verticalordertraversalbinarytree": 987,
+    "addtwonumbers": 2,
+    "binarytreezigzaglevelordertraversal": 103,
+    "binarytreelevelordertraversal": 102,
+    "binarytreelevelordertraversal2": 107,
+    "binarytreerightsideview": 199,
+    "capacitytoshippackageswithinddays": 1011,
+    "combinations": 77,
+    "containerwithmostwater": 11
+}
+
+target_dir = "LeetCode_Problems/Java"
+print("="*50)
+print(f"DEBUG: Scanning directory -> {target_dir}")
+
+# Check if the directory actually exists
+if not os.path.exists(target_dir):
+    print("CRITICAL ERROR: Directory does not exist.")
+    print("Files available in the root repository:")
+    for item in os.listdir('.'):
+        print(f" - {item}")
+    exit(1)
+
+changes = 0
+
+for root, dirs, files in os.walk(target_dir):
+    for filename in files:
+        if not filename.endswith('.java'): 
+            continue
+        
+        filepath = os.path.join(root, filename)
+        base_name = filename[:-5] # remove .java extension
+        
+        # Normalize to lowercase and remove all symbols/spaces for bulletproof lookup
+        normalized = re.sub(r'[^a-z0-9]', '', base_name.lower())
+        
+        prob_num = None
+        clean_title = base_name
+        
+        # 1. Try manual mapping first
+        if normalized in problem_mapping:
+            prob_num = str(problem_mapping[normalized])
+            clean_title = re.sub(r'\d+', '', base_name) # Remove old numbers from title
+        else:
+            # 2. Extract leading or embedded problem number (1 to 4 digits)
+            match = re.search(r'(?:^|\D)(\d{1,4})(?:\D|$)', base_name)
+            if match:
+                prob_num = match.group(1)
+                clean_title = base_name.replace(prob_num, "", 1) # Remove it from the title
+
+        # 3. Clean up the title string
+        for g in ["Code", "Testcase", "Test", "Result"]:
+            clean_title = re.sub(rf'\b{g}\b', '', clean_title, flags=re.IGNORECASE)
+            
+        # Replace dashes, underscores, and periods with spaces
+        clean_title = re.sub(r'[\.\-\_]', ' ', clean_title)
+        
+        # Insert spaces into CamelCase words
+        clean_title = re.sub(r'([a-z])([A-Z])', r'\1 \2', clean_title)
+        
+        # Collapse multiple spaces into a single space
+        clean_title = ' '.join(clean_title.split()).strip()
+        
+        # 4. Construct the final name
+        if prob_num:
+            new_name = f"{prob_num.zfill(4)}. {clean_title}.java"
+        else:
+            new_name = f"{clean_title}.java"
+            
+        # Apply rename if necessary
+        if new_name != filename:
+            new_filepath = os.path.join(root, new_name)
+            print(f"RENAME: '{filename}' -> '{new_name}'")
+            os.rename(filepath, new_filepath)
+            changes += 1
+        else:
+            print(f"OK (No changes needed): '{filename}'")
+
+print(f"Total files renamed: {changes}")
+print("="*50)
