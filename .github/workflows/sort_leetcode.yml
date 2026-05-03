@@ -24,77 +24,99 @@ jobs:
           import os
           import re
 
+          # All lowercase, no spaces or symbols for bulletproof matching
           problem_mapping = {
-              "MergeKSortedLists.java": 23,
-              "SudokuSolver.java": 37,
-              "TrappingRainWater.java": 42,
-              "N-Queens.java": 51,
-              "LargestRectangleinHistogram.java": 84,
-              "SlidingWindowMaximum.java": 239,
-              "Find Median from Data Stream.java": 295,
-              "ShortestSubarraywithSumatLeastK.java": 862,
-              "VerticalOrderTraversalBinaryTree.java": 987,
-              "AddTwoNumbers.java": 2,
-              "Binary Tree ZigzagLevelOrderTraversal.java": 103,
-              "BinaryTreeLevelOrderTraversal.java": 102,
-              "BinaryTreeLevelOrderTraversal2.java": 107,
-              "BinaryTreeRightSideView.java": 199,
-              "CapacityToShipPackagesWithinDDays.java": 1011,
-              "Combinations.java": 77,
-              "ContainerWithMostWater.java": 11
+              "mergeksortedlists": 23,
+              "sudokusolver": 37,
+              "trappingrainwater": 42,
+              "nqueens": 51,
+              "largestrectangleinhistogram": 84,
+              "slidingwindowmaximum": 239,
+              "findmedianfromdatastream": 295,
+              "shortestsubarraywithsumatleastk": 862,
+              "verticalordertraversalbinarytree": 987,
+              "addtwonumbers": 2,
+              "binarytreezigzaglevelordertraversal": 103,
+              "binarytreelevelordertraversal": 102,
+              "binarytreelevelordertraversal2": 107,
+              "binarytreerightsideview": 199,
+              "capacitytoshippackageswithinddays": 1011,
+              "combinations": 77,
+              "containerwithmostwater": 11
           }
 
-          def format_title(text):
-              # Adds a space before capital letters in CamelCase words
-              text = re.sub(r"([a-z0-9])([A-Z])", r"\1 \2", text)
-              return re.sub(r"\s+", " ", text).strip()
-
           target_dir = "LeetCode_Problems/Java"
+          print(f"Scanning directory: {target_dir}\n" + "-"*40)
 
-          if os.path.exists(target_dir):
-              for root, dirs, files in os.walk(target_dir):
-                  for filename in files:
-                      if not filename.endswith(".java"):
-                          continue
+          if not os.path.exists(target_dir):
+              print(f"ERROR: Directory '{target_dir}' not found in the repository!")
+              exit(0)
 
-                      filepath = os.path.join(root, filename)
-                      base, ext = os.path.splitext(filename)
+          changes_made = 0
+
+          for root, dirs, files in os.walk(target_dir):
+              for filename in files:
+                  if not filename.endswith(".java"):
+                      continue
+
+                  filepath = os.path.join(root, filename)
+                  base_name = os.path.splitext(filename)[0]
+                  
+                  # Normalize string for lookup (lowercase, remove all spaces and symbols)
+                  normalized_base = re.sub(r'[^a-zA-Z0-9]', '', base_name).lower()
+                  
+                  prob_num = None
+                  
+                  # 1. Check the lookup table FIRST
+                  if normalized_base in problem_mapping:
+                      prob_num = str(problem_mapping[normalized_base]).zfill(4)
                       
-                      prob_num = None
-                      clean_title = base
+                  # 2. Extract number from filename if not in mapping
+                  if not prob_num:
+                      # Find any standalone number up to 4 digits
+                      match = re.search(r'(?:^|\D)(\d{1,4})(?=\D|$)', base_name)
+                      if match:
+                          prob_num = match.group(1).zfill(4)
+                  
+                  # 3. Clean up the text title
+                  clean_title = base_name
+                  
+                  # Remove the extracted number from the title
+                  if prob_num:
+                      clean_title = re.sub(rf'\b{int(prob_num)}\b', '', clean_title)
+                      clean_title = re.sub(rf'\b{prob_num}\b', '', clean_title)
+                  
+                  # Strip out LeetCode garbage words
+                  garbage = ["Code", "Testcase", "Test", "Result"]
+                  for g in garbage:
+                      clean_title = re.sub(rf'\b{g}\b', '', clean_title, flags=re.IGNORECASE)
+                  
+                  # Replace dots, underscores, and hyphens with spaces
+                  clean_title = re.sub(r'[\.\-\_]', ' ', clean_title)
+                  
+                  # Add spaces to CamelCase words
+                  clean_title = re.sub(r'([a-z0-9])([A-Z])', r'\1 \2', clean_title)
+                  
+                  # Remove extra spaces and trim the ends
+                  clean_title = re.sub(r'\s+', ' ', clean_title).strip()
+                  
+                  # 4. Construct the final perfect name
+                  if prob_num:
+                      new_name = f"{prob_num}. {clean_title}.java"
+                  else:
+                      new_name = f"{clean_title}.java"
 
-                      if filename in problem_mapping:
-                          prob_num = str(problem_mapping[filename]).zfill(4)
-                          clean_title = os.path.splitext(filename)[0]
-                      else:
-                          num_match = re.search(r"(\d+)", base)
-                          if num_match:
-                              extracted_num = num_match.group(1)
-                              if len(extracted_num) <= 4:
-                                  prob_num = extracted_num.zfill(4)
-                                  remainder = base.replace(extracted_num, "", 1)
-                                  scraps = [
-                                      "Code Testcase Testcase Test Result",
-                                      "Code Testcase Test Result", 
-                                      ".", "-", "_"
-                                  ]
-                                  for scrap in scraps:
-                                      remainder = remainder.replace(scrap, "")
-                                  clean_title = remainder.strip()
+                  # Apply the rename if it changed
+                  if new_name != filename:
+                      new_filepath = os.path.join(root, new_name)
+                      print(f"RENAMING:\n  [OLD] {filename}\n  [NEW] {new_name}\n")
+                      os.rename(filepath, new_filepath)
+                      changes_made += 1
+                  else:
+                      print(f"SKIPPING (Already perfect): {filename}")
 
-                      spaced_title = format_title(clean_title)
-
-                      if prob_num:
-                          new_name = f"{prob_num}. {spaced_title}{ext}"
-                      else:
-                          new_name = f"{spaced_title}{ext}"
-
-                      if new_name != filename:
-                          new_filepath = os.path.join(root, new_name)
-                          print(f"Renaming: {filepath} -> {new_filepath}")
-                          os.rename(filepath, new_filepath)
-          else:
-              print(f"Directory {target_dir} not found!")
+          print("-" * 40)
+          print(f"Total files renamed: {changes_made}")
           EOF
 
       - name: Run Python Script
@@ -105,12 +127,12 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add -A LeetCode_Problems/Java/
-          git status
+          # Add all changes across the whole repo
+          git add -A
           
           if git diff --staged --quiet; then
-            echo "No changes to commit"
+            echo "No changes to commit. Everything is already formatted."
           else
-            git commit -m "style: sort and format file names recursively in subfolders"
+            git commit -m "style: aggressively normalize and format LeetCode filenames"
             git push origin ${{ github.ref_name }}
           fi
