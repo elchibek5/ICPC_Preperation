@@ -24,95 +24,85 @@ jobs:
           import os
           import re
 
-          problem_mapping = {
-              "mergeksortedlists": 23,
-              "sudokusolver": 37,
-              "trappingrainwater": 42,
-              "nqueens": 51,
-              "largestrectangleinhistogram": 84,
-              "slidingwindowmaximum": 239,
-              "findmedianfromdatastream": 295,
-              "shortestsubarraywithsumatleastk": 862,
-              "verticalordertraversalbinarytree": 987,
-              "addtwonumbers": 2,
-              "binarytreezigzaglevelordertraversal": 103,
-              "binarytreelevelordertraversal": 102,
-              "binarytreelevelordertraversal2": 107,
-              "binarytreerightsideview": 199,
-              "capacitytoshippackageswithinddays": 1011,
-              "combinations": 77,
-              "containerwithmostwater": 11
+          # Master Mapping: Fixes all unnumbered files and anomalies perfectly.
+          # Keys are the filename stripped of all spaces, dots, and caps.
+          master_mapping = {
+              # --- Fixes for artifacts from the last run ---
+              "0002rangesumquerydimmutable": (304, "Range Sum Query 2D - Immutable"),
+              "00153sum": (15, "3Sum"),
+              "0107binarytreelevelordertraversal2": (107, "Binary Tree Level Order Traversal II"),
+              "0274hindex": (274, "H-Index"),
+              "0435nonoverlappingintervals": (435, "Non-overlapping Intervals"),
+              "1011capacitytoshippackageswithinddays": (1011, "Capacity To Ship Packages Within D Days"),
+              "0424longestrepeatingcharacterreplacement": (424, "Longest Repeating Character Replacement"),
+              
+              # --- The Unnumbered Stragglers ---
+              "dailytemperatures": (739, "Daily Temperatures"),
+              "deletenodeinalinkedlist": (237, "Delete Node in a Linked List"),
+              "designbrowserhistory": (1472, "Design Browser History"),
+              "designcirculardeque": (641, "Design Circular Deque"),
+              "equalsumarrayswithminimumnumberofoperations": (1775, "Equal Sum Arrays With Minimum Number of Operations"),
+              "evaluatereversepolishnotation": (150, "Evaluate Reverse Polish Notation"),
+              "findminimuminrotatedsortedarray": (153, "Find Minimum in Rotated Sorted Array"),
+              "findtheduplicatenumber": (287, "Find the Duplicate Number"),
+              "generateparentheses": (22, "Generate Parentheses"),
+              "groupanagrams": (49, "Group Anagrams"),
+              "incrementsubmatricesbyone": (2536, "Increment Submatrices by One"),
+              "intersectionoftwoarraysii": (350, "Intersection of Two Arrays II"),
+              "linkedlistcycleii": (142, "Linked List Cycle II"),
+              "longestconsecutivesequence": (128, "Longest Consecutive Sequence"),
+              "longestcontinuoussubarraywithabsolutedifflessthanorequaltolimit": (1438, "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit"),
+              "majorityelementii": (229, "Majority Element II"),
+              "minstack": (155, "Min Stack"),
+              "nextgreaterelementii": (503, "Next Greater Element II"),
+              "onlinestockspan": (901, "Online Stock Span"),
+              "partitionarrayaccordingtogivenpivot": (2161, "Partition Array According to Given Pivot"),
+              "partitiontokequalsumsubsets": (698, "Partition to K Equal Sum Subsets"),
+              "permutations": (46, "Permutations"),
+              "powxn": (50, "Pow(x, n)"),
+              "rangeaddition": (370, "Range Addition"),
+              "reverselinkedlistii": (92, "Reverse Linked List II"),
+              "rotatearray": (189, "Rotate Array"),
+              "sortcolors": (75, "Sort Colors"),
+              "spiralmatrix": (54, "Spiral Matrix"),
+              "stringcompression": (443, "String Compression"),
+              "subarraysumequalsk": (560, "Subarray Sum Equals K"),
+              "swapnodesinpairs": (24, "Swap Nodes in Pairs"),
+              "topkfrequentwords": (692, "Top K Frequent Words"),
+              "topkfrequentelements": (347, "Top K Frequent Elements"),
+              "twosumiiinputarrayissorted": (167, "Two Sum II - Input Array Is Sorted")
           }
 
           target_dir = "LeetCode_Problems/Java"
-          print("="*50)
-          print(f"DEBUG: Scanning directory -> {target_dir}")
-
-          # Check if the directory actually exists
-          if not os.path.exists(target_dir):
-              print("CRITICAL ERROR: Directory does not exist.")
-              print("Files available in the root repository:")
-              for item in os.listdir('.'):
-                  print(f" - {item}")
-              exit(1)
-
           changes = 0
 
-          for root, dirs, files in os.walk(target_dir):
-              for filename in files:
-                  if not filename.endswith('.java'): 
-                      continue
-                  
-                  filepath = os.path.join(root, filename)
-                  base_name = filename[:-5] # remove .java extension
-                  
-                  # Normalize to lowercase and remove all symbols/spaces for bulletproof lookup
-                  normalized = re.sub(r'[^a-z0-9]', '', base_name.lower())
-                  
-                  prob_num = None
-                  clean_title = base_name
-                  
-                  # 1. Try manual mapping first
-                  if normalized in problem_mapping:
-                      prob_num = str(problem_mapping[normalized])
-                      clean_title = re.sub(r'\d+', '', base_name) # Remove old numbers from title
-                  else:
-                      # 2. Extract leading or embedded problem number (1 to 4 digits)
-                      match = re.search(r'(?:^|\D)(\d{1,4})(?:\D|$)', base_name)
-                      if match:
-                          prob_num = match.group(1)
-                          clean_title = base_name.replace(prob_num, "", 1) # Remove it from the title
-
-                  # 3. Clean up the title string
-                  for g in ["Code", "Testcase", "Test", "Result"]:
-                      clean_title = re.sub(rf'\b{g}\b', '', clean_title, flags=re.IGNORECASE)
+          if os.path.exists(target_dir):
+              for root, dirs, files in os.walk(target_dir):
+                  for filename in files:
+                      if not filename.endswith('.java'): 
+                          continue
                       
-                  # Replace dashes, underscores, and periods with spaces
-                  clean_title = re.sub(r'[\.\-\_]', ' ', clean_title)
-                  
-                  # Insert spaces into CamelCase words
-                  clean_title = re.sub(r'([a-z])([A-Z])', r'\1 \2', clean_title)
-                  
-                  # Collapse multiple spaces into a single space
-                  clean_title = ' '.join(clean_title.split()).strip()
-                  
-                  # 4. Construct the final name
-                  if prob_num:
-                      new_name = f"{prob_num.zfill(4)}. {clean_title}.java"
-                  else:
-                      new_name = f"{clean_title}.java"
+                      filepath = os.path.join(root, filename)
+                      base_name = filename[:-5]
                       
-                  # Apply rename if necessary
-                  if new_name != filename:
-                      new_filepath = os.path.join(root, new_name)
-                      print(f"RENAME: '{filename}' -> '{new_name}'")
-                      os.rename(filepath, new_filepath)
-                      changes += 1
-                  else:
-                      print(f"OK (No changes needed): '{filename}'")
-
+                      # Normalize the current filename to match our dictionary keys
+                      normalized = re.sub(r'[^a-z0-9]', '', base_name.lower())
+                      
+                      new_name = filename
+                      
+                      # 1. Override with the exact Master Mapping if it exists
+                      if normalized in master_mapping:
+                          prob_num, exact_title = master_mapping[normalized]
+                          new_name = f"{str(prob_num).zfill(4)}. {exact_title}.java"
+                      
+                      # 2. Rename the file if the Master Mapping updated it
+                      if new_name != filename:
+                          new_filepath = os.path.join(root, new_name)
+                          print(f"RENAME: '{filename}' -> '{new_name}'")
+                          os.rename(filepath, new_filepath)
+                          changes += 1
+          
           print(f"Total files renamed: {changes}")
-          print("="*50)
           EOF
 
       - name: Run Python Script
@@ -128,6 +118,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Working tree clean. No files were renamed."
           else
-            git commit -m "style: aggressively normalize and format LeetCode filenames"
+            git commit -m "style: apply master mapping to fix unnumbered files and anomalies"
             git push origin ${{ github.ref_name }}
           fi
