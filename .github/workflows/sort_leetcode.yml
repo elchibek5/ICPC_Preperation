@@ -10,6 +10,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }} # Forces Git to checkout the exact active branch
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,14 +46,15 @@ jobs:
           }
 
           def format_title(text):
-              # Adds a space before capital letters in CamelCase words
+              # 1. Add space before existing capital letters in CamelCase words
               text = re.sub(r"([a-z0-9])([A-Z])", r"\1 \2", text)
-              # Normalize multiple spaces down to a single space
+              # 2. Normalize multiple spaces into one single space
               return re.sub(r"\s+", " ", text).strip()
 
           target_dir = "LeetCode_Problems/Java"
 
           if os.path.exists(target_dir):
+              # os.walk traverses all subdirectories (easy, medium, hard)
               for root, dirs, files in os.walk(target_dir):
                   for filename in files:
                       if not filename.endswith(".java"):
@@ -60,43 +63,45 @@ jobs:
                       filepath = os.path.join(root, filename)
                       base, ext = os.path.splitext(filename)
                       
-                      # Initial extraction variables
                       prob_num = None
                       clean_title = base
 
-                      # Check Case A: Lookup Mapping for exact filenames
+                      # Case A: Matches manual mapping
                       if filename in problem_mapping:
                           prob_num = str(problem_mapping[filename]).zfill(4)
                           clean_title = os.path.splitext(filename)[0]
 
                       else:
-                          # Check Case B: Extract any number present in the filename
-                          # Matches even messy strings like "Code Testcase Test Result 424.LongestRepeating"
+                          # Case B: Look for any numbers in the filename
                           num_match = re.search(r"(\d+)", base)
                           if num_match:
                               extracted_num = num_match.group(1)
                               
-                              # Avoid treating long numbers or years as LeetCode problem numbers
+                              # Avoid treating long numbers or years as LeetCode IDs
                               if len(extracted_num) <= 4:
                                   prob_num = extracted_num.zfill(4)
                                   
-                                  # Remove the extracted digits and any surrounding dots/symbols/messy words
+                                  # Remove the matched number and strip out messy prefixes
                                   remainder = base.replace(extracted_num, "", 1)
-                                  for scrap in ["Code Testcase Test Result", "Code Testcase Testcase Test Result", ".", "-", "_"]:
+                                  scraps = [
+                                      "Code Testcase Testcase Test Result",
+                                      "Code Testcase Test Result", 
+                                      ".", "-", "_"
+                                  ]
+                                  for scrap in scraps:
                                       remainder = remainder.replace(scrap, "")
                                   clean_title = remainder.strip()
 
-                      # Step 3: Parse and correct CamelCase spacing
+                      # Fix any CamelCase spacing issues
                       spaced_title = format_title(clean_title)
 
-                      # Reconstruct the correct file name format
+                      # Rebuild the perfect filename
                       if prob_num:
                           new_name = f"{prob_num}. {spaced_title}{ext}"
                       else:
-                          # If there is no number, just clean up CamelCase spacing
                           new_name = f"{spaced_title}{ext}"
 
-                      # Apply rename only if the name has changed
+                      # If the newly generated name is different, rename the file
                       if new_name != filename:
                           new_filepath = os.path.join(root, new_name)
                           print(f"Renaming: {filepath} -> {new_filepath}")
@@ -109,10 +114,15 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add LeetCode_Problems/Java/
+          
+          # Stage all modifications, additions, and deletions
+          git add -A LeetCode_Problems/Java/
+          
+          # Force git status to recognize changes
+          git status
+          
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "style: sort and format file names recursively in subfolders"
-            git push
-          fi
+            git commit -m "style: recursively format and rename LeetCode files"
+            git push origin ${{ github.ref_name }}
