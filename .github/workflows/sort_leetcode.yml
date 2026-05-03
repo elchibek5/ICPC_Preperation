@@ -24,7 +24,6 @@ jobs:
           import os
           import re
 
-          # All lowercase, no spaces or symbols for bulletproof matching
           problem_mapping = {
               "mergeksortedlists": 23,
               "sudokusolver": 37,
@@ -46,77 +45,74 @@ jobs:
           }
 
           target_dir = "LeetCode_Problems/Java"
-          print(f"Scanning directory: {target_dir}\n" + "-"*40)
+          print("="*50)
+          print(f"DEBUG: Scanning directory -> {target_dir}")
 
+          # Check if the directory actually exists
           if not os.path.exists(target_dir):
-              print(f"ERROR: Directory '{target_dir}' not found in the repository!")
-              exit(0)
+              print("CRITICAL ERROR: Directory does not exist.")
+              print("Files available in the root repository:")
+              for item in os.listdir('.'):
+                  print(f" - {item}")
+              exit(1)
 
-          changes_made = 0
+          changes = 0
 
           for root, dirs, files in os.walk(target_dir):
               for filename in files:
-                  if not filename.endswith(".java"):
+                  if not filename.endswith('.java'): 
                       continue
-
-                  filepath = os.path.join(root, filename)
-                  base_name = os.path.splitext(filename)[0]
                   
-                  # Normalize string for lookup (lowercase, remove all spaces and symbols)
-                  normalized_base = re.sub(r'[^a-zA-Z0-9]', '', base_name).lower()
+                  filepath = os.path.join(root, filename)
+                  base_name = filename[:-5] # remove .java extension
+                  
+                  # Normalize to lowercase and remove all symbols/spaces for bulletproof lookup
+                  normalized = re.sub(r'[^a-z0-9]', '', base_name.lower())
                   
                   prob_num = None
-                  
-                  # 1. Check the lookup table FIRST
-                  if normalized_base in problem_mapping:
-                      prob_num = str(problem_mapping[normalized_base]).zfill(4)
-                      
-                  # 2. Extract number from filename if not in mapping
-                  if not prob_num:
-                      # Find any standalone number up to 4 digits
-                      match = re.search(r'(?:^|\D)(\d{1,4})(?=\D|$)', base_name)
-                      if match:
-                          prob_num = match.group(1).zfill(4)
-                  
-                  # 3. Clean up the text title
                   clean_title = base_name
                   
-                  # Remove the extracted number from the title
-                  if prob_num:
-                      clean_title = re.sub(rf'\b{int(prob_num)}\b', '', clean_title)
-                      clean_title = re.sub(rf'\b{prob_num}\b', '', clean_title)
-                  
-                  # Strip out LeetCode garbage words
-                  garbage = ["Code", "Testcase", "Test", "Result"]
-                  for g in garbage:
+                  # 1. Try manual mapping first
+                  if normalized in problem_mapping:
+                      prob_num = str(problem_mapping[normalized])
+                      clean_title = re.sub(r'\d+', '', base_name) # Remove old numbers from title
+                  else:
+                      # 2. Extract leading or embedded problem number (1 to 4 digits)
+                      match = re.search(r'(?:^|\D)(\d{1,4})(?:\D|$)', base_name)
+                      if match:
+                          prob_num = match.group(1)
+                          clean_title = base_name.replace(prob_num, "", 1) # Remove it from the title
+
+                  # 3. Clean up the title string
+                  for g in ["Code", "Testcase", "Test", "Result"]:
                       clean_title = re.sub(rf'\b{g}\b', '', clean_title, flags=re.IGNORECASE)
-                  
-                  # Replace dots, underscores, and hyphens with spaces
+                      
+                  # Replace dashes, underscores, and periods with spaces
                   clean_title = re.sub(r'[\.\-\_]', ' ', clean_title)
                   
-                  # Add spaces to CamelCase words
-                  clean_title = re.sub(r'([a-z0-9])([A-Z])', r'\1 \2', clean_title)
+                  # Insert spaces into CamelCase words
+                  clean_title = re.sub(r'([a-z])([A-Z])', r'\1 \2', clean_title)
                   
-                  # Remove extra spaces and trim the ends
-                  clean_title = re.sub(r'\s+', ' ', clean_title).strip()
+                  # Collapse multiple spaces into a single space
+                  clean_title = ' '.join(clean_title.split()).strip()
                   
-                  # 4. Construct the final perfect name
+                  # 4. Construct the final name
                   if prob_num:
-                      new_name = f"{prob_num}. {clean_title}.java"
+                      new_name = f"{prob_num.zfill(4)}. {clean_title}.java"
                   else:
                       new_name = f"{clean_title}.java"
-
-                  # Apply the rename if it changed
+                      
+                  # Apply rename if necessary
                   if new_name != filename:
                       new_filepath = os.path.join(root, new_name)
-                      print(f"RENAMING:\n  [OLD] {filename}\n  [NEW] {new_name}\n")
+                      print(f"RENAME: '{filename}' -> '{new_name}'")
                       os.rename(filepath, new_filepath)
-                      changes_made += 1
+                      changes += 1
                   else:
-                      print(f"SKIPPING (Already perfect): {filename}")
+                      print(f"OK (No changes needed): '{filename}'")
 
-          print("-" * 40)
-          print(f"Total files renamed: {changes_made}")
+          print(f"Total files renamed: {changes}")
+          print("="*50)
           EOF
 
       - name: Run Python Script
@@ -127,11 +123,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Add all changes across the whole repo
           git add -A
           
           if git diff --staged --quiet; then
-            echo "No changes to commit. Everything is already formatted."
+            echo "Working tree clean. No files were renamed."
           else
             git commit -m "style: aggressively normalize and format LeetCode filenames"
             git push origin ${{ github.ref_name }}
