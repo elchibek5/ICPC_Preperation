@@ -1,55 +1,95 @@
 <svg width="500" height="250" viewBox="0 0 500 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blood-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4a0000" />
+      <stop offset="50%" stop-color="#8a0303" />
+      <stop offset="100%" stop-color="#ff0000" />
+    </linearGradient>
+    
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
   <style>
-    .bg { fill: #1A1B27; rx: 15px; }
-    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 20px; fill: #A9B1D6; }
-    .total-text { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 42px; fill: #7AA2F7; }
-    .total-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 12px; fill: #565F89; text-transform: uppercase; letter-spacing: 1px; }
-    .stat-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 13px; fill: #C0CAF5; }
-    .stat-value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 13px; fill: #A9B1D6; }
+    .gothic { font-family: 'Times New Roman', serif; font-weight: 900; }
+    .typewriter { font-family: 'Courier New', Courier, monospace; font-weight: bold; }
     
     /* Animations */
-    @keyframes slideIn {
+    @keyframes flicker {
+      0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; text-shadow: 0 0 8px #ff0000; }
+      20%, 22%, 24%, 55% { opacity: 0; text-shadow: none; }
+    }
+    
+    @keyframes heartbeat {
+      0% { transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }
+      14% { transform: scale(1.05); filter: drop-shadow(0 0 10px #ff0000); }
+      28% { transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }
+      42% { transform: scale(1.05); filter: drop-shadow(0 0 10px #ff0000); }
+      70% { transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }
+    }
+
+    @keyframes inkBleed {
       from { width: 0; opacity: 0; }
       to { opacity: 1; }
     }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
+
+    @keyframes typeIn {
+      from { opacity: 0; transform: translateX(-10px); }
+      to { opacity: 1; transform: translateX(0); }
     }
+
+    .flicker-text { animation: flicker 4s infinite; fill: #d40000; }
+    .pulse-number { transform-origin: 30px 180px; animation: heartbeat 2s infinite; fill: #ffffff; }
     
-    .bar-easy { animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards; }
-    .bar-medium { animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.2s; opacity: 0; }
-    .bar-hard { animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.4s; opacity: 0; }
-    .fade-text { animation: fadeIn 1s ease-out forwards 0.5s; opacity: 0; }
+    .rule-text { fill: #888888; font-size: 9px; opacity: 0; animation: typeIn 1s forwards; }
+    
+    .ink-easy { animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1s; opacity: 0; }
+    .ink-medium { animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1.3s; opacity: 0; }
+    .ink-hard { animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1.6s; opacity: 0; }
   </style>
 
-  <rect class="bg" width="500" height="250" stroke="#292E42" stroke-width="2"/>
+  <rect width="500" height="250" fill="#030303" />
 
-  <text x="30" y="40" class="title">Algorithm Mastery</text>
+  <text x="250" y="220" class="gothic" font-size="200" fill="#0a0a0a" text-anchor="middle" font-style="italic">L.C.</text>
+
+  <text x="25" y="45" class="gothic flicker-text" font-size="28" letter-spacing="2">LEETCODE NOTE</text>
   
-  <g class="fade-text" transform="translate(30, 85)">
-    <text x="0" y="0" class="total-text">177</text>
-    <text x="0" y="25" class="total-label">Problems Solved</text>
+  <text x="25" y="70" class="typewriter rule-text" style="animation-delay: 0.2s;" fill="#ffffff">How to use it:</text>
+  <text x="25" y="85" class="typewriter rule-text" style="animation-delay: 0.5s;">The problem whose algorithm is</text>
+  <text x="25" y="98" class="typewriter rule-text" style="animation-delay: 0.7s;">written in this repository</text>
+  <text x="25" y="111" class="typewriter rule-text" style="animation-delay: 0.9s;">shall be solved.</text>
+
+  <g transform="translate(25, 160)">
+    <text x="0" y="0" class="typewriter" font-size="12" fill="#d40000" filter="url(#glow)">TOTAL ELIMINATED</text>
+    <text x="0" y="45" class="gothic pulse-number" font-size="52">177</text>
   </g>
 
-  <g transform="translate(160, 60)">
-    <text x="0" y="0" class="stat-label">Easy</text>
-    <text x="300" y="0" class="stat-value" text-anchor="end">88</text>
-    <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
-    <rect class="bar-easy" x="0" y="10" width="149" height="10" rx="5" fill="#9ECE6A"/>
+  <line x1="200" y1="30" x2="200" y2="220" stroke="#1a0000" stroke-width="2" />
+
+  <g transform="translate(220, 50)">
+    <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Casualties (Easy)</text>
+    <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">88</text>
+    <rect x="0" y="10" width="260" height="6" fill="#111111" />
+    <rect class="ink-easy" x="0" y="10" width="129" height="6" fill="#008a3e" />
   </g>
 
-  <g transform="translate(160, 115)">
-    <text x="0" y="0" class="stat-label">Medium</text>
-    <text x="300" y="0" class="stat-value" text-anchor="end">74</text>
-    <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
-    <rect class="bar-medium" x="0" y="10" width="125" height="10" rx="5" fill="#E0AF68"/>
+  <g transform="translate(220, 110)">
+    <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Targets (Medium)</text>
+    <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">74</text>
+    <rect x="0" y="10" width="260" height="6" fill="#111111" />
+    <rect class="ink-medium" x="0" y="10" width="108" height="6" fill="#d47900" />
   </g>
 
-  <g transform="translate(160, 170)">
-    <text x="0" y="0" class="stat-label">Hard</text>
-    <text x="300" y="0" class="stat-value" text-anchor="end">15</text>
-    <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
-    <rect class="bar-hard" x="0" y="10" width="25" height="10" rx="5" fill="#F7768E"/>
+  <g transform="translate(220, 170)">
+    <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Special Grade (Hard)</text>
+    <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">15</text>
+    <rect x="0" y="10" width="260" height="6" fill="#111111" />
+    <rect class="ink-hard" x="0" y="10" width="22" height="6" fill="url(#blood-gradient)" filter="url(#glow)"/>
   </g>
+
 </svg>
