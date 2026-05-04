@@ -118,21 +118,21 @@ jobs:
 
             <line x1="310" y1="40" x2="310" y2="360" stroke="#1a0000" stroke-width="3" />
 
-            <g transform="translate(350, 75)">
+            <g transform="translate(350, 95)">
               <text x="0" y="0" class="gothic" font-size="22" fill="#a0a0a0">Casualties (Easy)</text>
               <text x="440" y="0" class="typewriter" font-size="22" fill="#ffffff" text-anchor="end">{easy}</text>
               <rect x="0" y="15" width="440" height="10" fill="#111111" />
               <rect class="ink-easy" x="0" y="15" width="{easy_width}" height="10" fill="#008a3e" />
             </g>
 
-            <g transform="translate(350, 185)">
+            <g transform="translate(350, 205)">
               <text x="0" y="0" class="gothic" font-size="22" fill="#a0a0a0">Targets (Medium)</text>
               <text x="440" y="0" class="typewriter" font-size="22" fill="#ffffff" text-anchor="end">{medium}</text>
               <rect x="0" y="15" width="440" height="10" fill="#111111" />
               <rect class="ink-medium" x="0" y="15" width="{medium_width}" height="10" fill="#d47900" />
             </g>
 
-            <g transform="translate(350, 295)">
+            <g transform="translate(350, 315)">
               <text x="0" y="0" class="gothic" font-size="22" fill="#a0a0a0">Special Grade (Hard)</text>
               <text x="440" y="0" class="typewriter" font-size="22" fill="#ffffff" text-anchor="end">{hard}</text>
               <rect x="0" y="15" width="440" height="10" fill="#111111" />
@@ -160,6 +160,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No stats changes to commit."
           else
-            git commit -m "docs: generate upscaled cinematic Death Note LeetCode stats SVG"
+            git commit -m "docs: adjust Y-axis spacing on Death Note SVG"
             git push origin ${{ github.ref_name }}
           fi
