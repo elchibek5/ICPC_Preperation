@@ -1,0 +1,92 @@
+name: Update LeetCode Stats in README
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'LeetCode_Problems/**'
+  workflow_dispatch:
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Update README Stats
+        run: |
+          python -c '
+          import os
+          import re
+
+          def count_java_files(folder):
+              path = os.path.join("LeetCode_Problems/Java", folder)
+              if not os.path.exists(path):
+                  return 0
+              return len([f for f in os.listdir(path) if f.endswith(".java")])
+
+          # Count files per difficulty
+          easy_count = count_java_files("easy")
+          medium_count = count_java_files("medium")
+          hard_count = count_java_files("hard")
+          total_solved = easy_count + medium_count + hard_count
+
+          # Visual progress bar generator
+          def make_bar(count, total):
+              if total == 0: return "░" * 15
+              filled = int((count / total) * 15)
+              return "█" * filled + "░" * (15 - filled)
+
+          # Generate the markdown content
+          stats_content = f"""### 📈 Problem Solving Breakdown
+
+          | Difficulty | Solved | Visual Progress |
+          | :--- | :--- | :--- |
+          | 🟢 **Easy** | `{easy_count}` | `{make_bar(easy_count, total_solved)}` |
+          | 🟡 **Medium** | `{medium_count}` | `{make_bar(medium_count, total_solved)}` |
+          | 🔴 **Hard** | `{hard_count}` | `{make_bar(hard_count, total_solved)}` |
+          | 🔥 **Total Solved** | **`{total_solved}`** | *Keep pushing!* |
+
+          *Last updated automatically on every push.*
+          """
+
+          # Read existing README.md
+          readme_path = "README.md"
+          if os.path.exists(readme_path):
+              with open(readme_path, "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              # Replace old stats block with new stats
+              pattern = r".*?"
+              updated_content = re.sub(pattern, stats_content, content, flags=re.DOTALL)
+
+              with open(readme_path, "w", encoding="utf-8") as f:
+                  f.write(updated_content)
+              print("README.md stats updated successfully!")
+          else:
+              print("README.md not found!")
+          '
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add README.md
+          
+          if git diff --staged --quiet; then
+            echo "No stats changes to commit."
+          else
+            git commit -m "docs: automatically update LeetCode problem stats in README"
+            git push origin ${{ github.ref_name }}
+          fi
