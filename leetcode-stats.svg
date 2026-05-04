@@ -1,0 +1,55 @@
+<svg width="500" height="250" viewBox="0 0 500 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #1A1B27; rx: 15px; }
+    .title { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 20px; fill: #A9B1D6; }
+    .total-text { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 42px; fill: #7AA2F7; }
+    .total-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 12px; fill: #565F89; text-transform: uppercase; letter-spacing: 1px; }
+    .stat-label { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 13px; fill: #C0CAF5; }
+    .stat-value { font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 13px; fill: #A9B1D6; }
+    
+    /* Animations */
+    @keyframes slideIn {
+      from { width: 0; opacity: 0; }
+      to { opacity: 1; }
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    
+    .bar-easy { animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards; }
+    .bar-medium { animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.2s; opacity: 0; }
+    .bar-hard { animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.4s; opacity: 0; }
+    .fade-text { animation: fadeIn 1s ease-out forwards 0.5s; opacity: 0; }
+  </style>
+
+  <rect class="bg" width="500" height="250" stroke="#292E42" stroke-width="2"/>
+
+  <text x="30" y="40" class="title">Algorithm Mastery</text>
+  
+  <g class="fade-text" transform="translate(30, 85)">
+    <text x="0" y="0" class="total-text">177</text>
+    <text x="0" y="25" class="total-label">Problems Solved</text>
+  </g>
+
+  <g transform="translate(160, 60)">
+    <text x="0" y="0" class="stat-label">Easy</text>
+    <text x="300" y="0" class="stat-value" text-anchor="end">88</text>
+    <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
+    <rect class="bar-easy" x="0" y="10" width="149" height="10" rx="5" fill="#9ECE6A"/>
+  </g>
+
+  <g transform="translate(160, 115)">
+    <text x="0" y="0" class="stat-label">Medium</text>
+    <text x="300" y="0" class="stat-value" text-anchor="end">74</text>
+    <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
+    <rect class="bar-medium" x="0" y="10" width="125" height="10" rx="5" fill="#E0AF68"/>
+  </g>
+
+  <g transform="translate(160, 170)">
+    <text x="0" y="0" class="stat-label">Hard</text>
+    <text x="300" y="0" class="stat-value" text-anchor="end">15</text>
+    <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
+    <rect class="bar-hard" x="0" y="10" width="25" height="10" rx="5" fill="#F7768E"/>
+  </g>
+</svg>
