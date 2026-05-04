@@ -12,7 +12,7 @@
 
 ### 𓂃✍︎ HOW TO USE IT
 
- # The algorithmic problem whose solution is written in this repository shall be solved.
+ #### Simply solve the problems
 
 ---
 
