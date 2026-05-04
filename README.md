@@ -1,9 +1,5510 @@
-# 🚀 ICPC & LeetCode Preparation
+### 📈 Problem Solving Breakdown
 
-Welcome to my competitive programming repository! I archive my algorithmic problem-solving journey here.
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
 
-## 📊 LeetCode Progress Tracker
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
 
-## 🛠️ Tech Stack & Structure
-* **Language:** Java
-* **Structure:** LeetCode (`easy`, `medium`, `hard`) 
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
+### 📈 Problem Solving Breakdown
+
+| Difficulty | Solved | Visual Progress |
+| :--- | :--- | :--- |
+| 🟢 **Easy** | `88` | `███████░░░░░░░░` |
+| 🟡 **Medium** | `74` | `██████░░░░░░░░░` |
+| 🔴 **Hard** | `15` | `█░░░░░░░░░░░░░░` |
+| 🔥 **Total Solved** | **`177`** | *Keep pushing!* |
+
+*Last updated automatically on every push.*
