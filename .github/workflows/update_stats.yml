@@ -38,93 +38,125 @@ jobs:
           medium = count_java_files("medium")
           hard = count_java_files("hard")
           total = easy + medium + hard
+          if total == 0: total = 1
 
-          if total == 0:
-              total = 1 # Prevent division by zero
-
-          # Calculate widths for the progress bars (Max width is 300px)
           easy_width = int((easy / total) * 300)
           medium_width = int((medium / total) * 300)
           hard_width = int((hard / total) * 300)
 
-          # SVG Template with embedded CSS for beautiful load-in animations
+          # Notice the double braces {{ }} for CSS inside Python f-strings!
           svg_content = f"""<svg width="500" height="250" viewBox="0 0 500 250" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <style>
-              .bg {{ fill: #1A1B27; rx: 15px; }}
-              .title {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 20px; fill: #A9B1D6; }}
-              .total-text {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 42px; fill: #7AA2F7; }}
-              .total-label {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 12px; fill: #565F89; text-transform: uppercase; letter-spacing: 1px; }}
-              .stat-label {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 13px; fill: #C0CAF5; }}
-              .stat-value {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 13px; fill: #A9B1D6; }}
+            <defs>
+              <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#0B0C10" />
+                <stop offset="50%" stop-color="#1A1A2E" />
+                <stop offset="100%" stop-color="#16213E" />
+              </linearGradient>
               
-              /* Animations */
+              <linearGradient id="easy-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#00b09b" />
+                <stop offset="100%" stop-color="#96c93d" />
+              </linearGradient>
+              <linearGradient id="med-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#f7b733" />
+                <stop offset="100%" stop-color="#fc4a1a" />
+              </linearGradient>
+              <linearGradient id="hard-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#ed213a" />
+                <stop offset="100%" stop-color="#93291e" />
+              </linearGradient>
+
+              <linearGradient id="meteor" x1="100%" y1="0%" x2="0%" y2="100%">
+                <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+                <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+              </linearGradient>
+            </defs>
+
+            <style>
+              .title {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 22px; fill: #E94560; text-shadow: 0px 0px 10px rgba(233, 69, 96, 0.5); }}
+              .total-text {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 46px; fill: #FFFFFF; }}
+              .total-label {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 12px; fill: #A0A5B5; text-transform: uppercase; letter-spacing: 2px; }}
+              .stat-label {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 14px; fill: #D1D5DB; }}
+              .stat-value {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 14px; fill: #FFFFFF; }}
+              
+              /* Load In Animation */
               @keyframes slideIn {{
                 from {{ width: 0; opacity: 0; }}
                 to {{ opacity: 1; }}
               }}
-              @keyframes fadeIn {{
-                from {{ opacity: 0; transform: translateY(10px); }}
-                to {{ opacity: 1; transform: translateY(0); }}
+              
+              /* Glowing Breathing Animation */
+              @keyframes pulseGlow {{
+                0% {{ filter: drop-shadow(0 0 2px rgba(255,255,255,0.2)); }}
+                50% {{ filter: drop-shadow(0 0 8px rgba(255,255,255,0.6)); }}
+                100% {{ filter: drop-shadow(0 0 2px rgba(255,255,255,0.2)); }}
+              }}
+
+              /* Shooting Star Animation */
+              @keyframes fall {{
+                0% {{ transform: translate(400px, -100px); opacity: 1; }}
+                100% {{ transform: translate(-200px, 400px); opacity: 0; }}
               }}
               
-              .bar-easy {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards; }}
-              .bar-medium {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.2s; opacity: 0; }}
-              .bar-hard {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.4s; opacity: 0; }}
-              .fade-text {{ animation: fadeIn 1s ease-out forwards 0.5s; opacity: 0; }}
+              /* Blinking Stars */
+              @keyframes twinkle {{
+                0%, 100% {{ opacity: 0.2; }}
+                50% {{ opacity: 0.8; transform: scale(1.2); }}
+              }}
+              
+              .bar-easy {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards, pulseGlow 3s infinite alternate 1.5s; }}
+              .bar-medium {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.2s, pulseGlow 3s infinite alternate 1.7s; opacity: 0; }}
+              .bar-hard {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.4s, pulseGlow 3s infinite alternate 1.9s; opacity: 0; }}
+              
+              .meteor-1 {{ animation: fall 4s linear infinite; }}
+              .meteor-2 {{ animation: fall 5s linear infinite 2s; }}
+              .meteor-3 {{ animation: fall 6s linear infinite 1s; }}
+              
+              .star {{ animation: twinkle 3s infinite ease-in-out; }}
             </style>
 
-            <rect class="bg" width="500" height="250" stroke="#292E42" stroke-width="2"/>
+            <rect width="500" height="250" rx="15" fill="url(#sky)" />
 
-            <text x="30" y="40" class="title">Algorithm Mastery</text>
+            <circle cx="50" cy="50" r="1" fill="#FFF" class="star" style="animation-delay: 0s;" />
+            <circle cx="150" cy="30" r="1.5" fill="#FFF" class="star" style="animation-delay: 1s;" />
+            <circle cx="350" cy="80" r="1" fill="#FFF" class="star" style="animation-delay: 0.5s;" />
+            <circle cx="450" cy="40" r="2" fill="#FFF" class="star" style="animation-delay: 1.5s;" />
+            <circle cx="80" cy="200" r="1" fill="#FFF" class="star" style="animation-delay: 0.2s;" />
+
+            <g class="meteor-1"><line x1="0" y1="0" x2="-40" y2="40" stroke="url(#meteor)" stroke-width="2" stroke-linecap="round"/></g>
+            <g class="meteor-2"><line x1="0" y1="0" x2="-60" y2="60" stroke="url(#meteor)" stroke-width="1.5" stroke-linecap="round"/></g>
+            <g class="meteor-3"><line x1="0" y1="0" x2="-30" y2="30" stroke="url(#meteor)" stroke-width="2.5" stroke-linecap="round"/></g>
+
+            <text x="35" y="45" class="title">Algorithm Mastery</text>
             
-            <g class="fade-text" transform="translate(30, 85)">
+            <g transform="translate(35, 110)">
               <text x="0" y="0" class="total-text">{easy + medium + hard}</text>
               <text x="0" y="25" class="total-label">Problems Solved</text>
             </g>
 
-            <g transform="translate(160, 60)">
+            <g transform="translate(170, 70)">
               <text x="0" y="0" class="stat-label">Easy</text>
-              <text x="300" y="0" class="stat-value" text-anchor="end">{easy}</text>
-              <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
-              <rect class="bar-easy" x="0" y="10" width="{easy_width}" height="10" rx="5" fill="#9ECE6A"/>
+              <text x="290" y="0" class="stat-value" text-anchor="end">{easy}</text>
+              <rect x="0" y="12" width="290" height="8" rx="4" fill="#0B0C10" stroke="#1A1A2E"/>
+              <rect class="bar-easy" x="0" y="12" width="{easy_width}" height="8" rx="4" fill="url(#easy-grad)"/>
             </g>
 
-            <g transform="translate(160, 115)">
+            <g transform="translate(170, 130)">
               <text x="0" y="0" class="stat-label">Medium</text>
-              <text x="300" y="0" class="stat-value" text-anchor="end">{medium}</text>
-              <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
-              <rect class="bar-medium" x="0" y="10" width="{medium_width}" height="10" rx="5" fill="#E0AF68"/>
+              <text x="290" y="0" class="stat-value" text-anchor="end">{medium}</text>
+              <rect x="0" y="12" width="290" height="8" rx="4" fill="#0B0C10" stroke="#1A1A2E"/>
+              <rect class="bar-medium" x="0" y="12" width="{medium_width}" height="8" rx="4" fill="url(#med-grad)"/>
             </g>
 
-            <g transform="translate(160, 170)">
+            <g transform="translate(170, 190)">
               <text x="0" y="0" class="stat-label">Hard</text>
-              <text x="300" y="0" class="stat-value" text-anchor="end">{hard}</text>
-              <rect x="0" y="10" width="300" height="10" rx="5" fill="#292E42"/>
-              <rect class="bar-hard" x="0" y="10" width="{hard_width}" height="10" rx="5" fill="#F7768E"/>
+              <text x="290" y="0" class="stat-value" text-anchor="end">{hard}</text>
+              <rect x="0" y="12" width="290" height="8" rx="4" fill="#0B0C10" stroke="#1A1A2E"/>
+              <rect class="bar-hard" x="0" y="12" width="{hard_width}" height="8" rx="4" fill="url(#hard-grad)"/>
             </g>
           </svg>
           """
 
           with open("leetcode-stats.svg", "w", encoding="utf-8") as f:
               f.write(svg_content)
-          print("SVG generated successfully!")
           EOF
-
-      - name: Run Script
-        run: python generate_svg.py
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Force add the SVG just in case
-          git add leetcode-stats.svg
-          git status
-          
-          if git diff --staged --quiet; then
-            echo "No stats changes to commit."
-          else
-            git commit -m "docs: generate animated LeetCode stats SVG"
-            git push origin ${{ github.ref_name }}
-          fi
