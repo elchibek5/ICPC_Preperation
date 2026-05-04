@@ -1,165 +1,33 @@
-name: Generate Death Note LeetCode Stats
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'LeetCode_Problems/**'
-  workflow_dispatch:
+<div align="center">
+  <img src="./leetcode-stats.svg" alt="LeetCode Note Stats" />
+</div>
 
-jobs:
-  generate_svg:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref_name }}
+<br>
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+<div align="center">
+  <p><em>"The human whose code is written in this note shall pass the technical interview."</em></p>
+</div>
 
-      - name: Create Death Note SVG Generator Script
-        run: |
-          cat << 'EOF' > generate_svg.py
-          import os
+---
 
-          def count_java_files(folder):
-              path = os.path.join("LeetCode_Problems/Java", folder)
-              if not os.path.exists(path):
-                  return 0
-              return len([f for f in os.listdir(path) if f.endswith(".java")])
+### ♱ HOW TO USE IT
 
-          easy = count_java_files("easy")
-          medium = count_java_files("medium")
-          hard = count_java_files("hard")
-          total = easy + medium + hard
-          if total == 0: total = 1
+1. The algorithmic problem whose solution is written in this repository shall be solved.
+2. This note will not take effect unless the writer has the problem's time and space complexity constraints in their mind when coding. Therefore, people simply copying the solution will not be affected.
+3. If the optimal solution is pushed within 40 seconds of writing the base case, the test cases will pass.
+4. If the edge cases are not specified, the algorithm will default to a `NullPointerException`.
+5. The human who touches this repository will be granted the eyes of a Senior Engineer.
 
-          # Max width is 260px for the right-side bars
-          easy_width = int((easy / total) * 260)
-          medium_width = int((medium / total) * 260)
-          hard_width = int((hard / total) * 260)
+---
 
-          svg_content = f"""<svg width="500" height="250" viewBox="0 0 500 250" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <defs>
-              <linearGradient id="blood-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#4a0000" />
-                <stop offset="50%" stop-color="#8a0303" />
-                <stop offset="100%" stop-color="#ff0000" />
-              </linearGradient>
-              
-              <filter id="glow">
-                <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-                <feMerge>
-                  <feMergeNode in="coloredBlur"/>
-                  <feMergeNode in="SourceGraphic"/>
-                </feMerge>
-              </filter>
-            </defs>
+### ♱ THE ARSENAL
+> The instruments of execution.
 
-            <style>
-              .gothic {{ font-family: 'Times New Roman', serif; font-weight: 900; }}
-              .typewriter {{ font-family: 'Courier New', Courier, monospace; font-weight: bold; }}
-              
-              /* Animations */
-              @keyframes flicker {{
-                0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {{ opacity: 1; text-shadow: 0 0 8px #ff0000; }}
-                20%, 22%, 24%, 55% {{ opacity: 0; text-shadow: none; }}
-              }}
-              
-              @keyframes heartbeat {{
-                0% {{ transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }}
-                14% {{ transform: scale(1.05); filter: drop-shadow(0 0 10px #ff0000); }}
-                28% {{ transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }}
-                42% {{ transform: scale(1.05); filter: drop-shadow(0 0 10px #ff0000); }}
-                70% {{ transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }}
-              }}
+* **Primary Weapon:** Java (Spring Boot)
+* **Execution Environment:** LeetCode (`easy`, `medium`, `hard`) & Codeforces
+* **Tactics:** Two-Pointer, Dynamic Programming, Topological Sort, Graph Traversal
 
-              @keyframes inkBleed {{
-                from {{ width: 0; opacity: 0; }}
-                to {{ opacity: 1; }}
-              }}
-
-              @keyframes typeIn {{
-                from {{ opacity: 0; transform: translateX(-10px); }}
-                to {{ opacity: 1; transform: translateX(0); }}
-              }}
-
-              .flicker-text {{ animation: flicker 4s infinite; fill: #d40000; }}
-              .pulse-number {{ transform-origin: 30px 180px; animation: heartbeat 2s infinite; fill: #ffffff; }}
-              
-              .rule-text {{ fill: #888888; font-size: 9px; opacity: 0; animation: typeIn 1s forwards; }}
-              
-              .ink-easy {{ animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1s; opacity: 0; }}
-              .ink-medium {{ animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1.3s; opacity: 0; }}
-              .ink-hard {{ animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1.6s; opacity: 0; }}
-            </style>
-
-            <rect width="500" height="250" fill="#030303" />
-
-            <text x="250" y="220" class="gothic" font-size="200" fill="#0a0a0a" text-anchor="middle" font-style="italic">L.C.</text>
-
-            <text x="25" y="45" class="gothic flicker-text" font-size="28" letter-spacing="2">LEETCODE NOTE</text>
-            
-            <text x="25" y="70" class="typewriter rule-text" style="animation-delay: 0.2s;" fill="#ffffff">How to use it:</text>
-            <text x="25" y="85" class="typewriter rule-text" style="animation-delay: 0.5s;">The problem whose algorithm is</text>
-            <text x="25" y="98" class="typewriter rule-text" style="animation-delay: 0.7s;">written in this repository</text>
-            <text x="25" y="111" class="typewriter rule-text" style="animation-delay: 0.9s;">shall be solved.</text>
-
-            <g transform="translate(25, 160)">
-              <text x="0" y="0" class="typewriter" font-size="12" fill="#d40000" filter="url(#glow)">TOTAL ELIMINATED</text>
-              <text x="0" y="45" class="gothic pulse-number" font-size="52">{total}</text>
-            </g>
-
-            <line x1="200" y1="30" x2="200" y2="220" stroke="#1a0000" stroke-width="2" />
-
-            <g transform="translate(220, 50)">
-              <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Casualties (Easy)</text>
-              <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">{easy}</text>
-              <rect x="0" y="10" width="260" height="6" fill="#111111" />
-              <rect class="ink-easy" x="0" y="10" width="{easy_width}" height="6" fill="#008a3e" />
-            </g>
-
-            <g transform="translate(220, 110)">
-              <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Targets (Medium)</text>
-              <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">{medium}</text>
-              <rect x="0" y="10" width="260" height="6" fill="#111111" />
-              <rect class="ink-medium" x="0" y="10" width="{medium_width}" height="6" fill="#d47900" />
-            </g>
-
-            <g transform="translate(220, 170)">
-              <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Special Grade (Hard)</text>
-              <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">{hard}</text>
-              <rect x="0" y="10" width="260" height="6" fill="#111111" />
-              <rect class="ink-hard" x="0" y="10" width="{hard_width}" height="6" fill="url(#blood-gradient)" filter="url(#glow)"/>
-            </g>
-
-          </svg>
-          """
-
-          with open("leetcode-stats.svg", "w", encoding="utf-8") as f:
-              f.write(svg_content)
-          print("Death Note SVG generated successfully!")
-          EOF
-
-      - name: Run Script
-        run: python generate_svg.py
-
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add leetcode-stats.svg
-          
-          if git diff --staged --quiet; then
-            echo "No stats changes to commit."
-          else
-            git commit -m "docs: generate Death Note animated LeetCode stats SVG"
-            git push origin ${{ github.ref_name }}
-          fi
+---
+<div align="center">
+  <p><code>System.exit(0);</code></p>
+</div>
