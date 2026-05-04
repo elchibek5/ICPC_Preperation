@@ -1,4 +1,4 @@
-name: Generate Animated LeetCode Stats
+name: Generate Death Note LeetCode Stats
 on:
   push:
     branches:
@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Create SVG Generator Script
+      - name: Create Death Note SVG Generator Script
         run: |
           cat << 'EOF' > generate_svg.py
           import os
@@ -40,123 +40,126 @@ jobs:
           total = easy + medium + hard
           if total == 0: total = 1
 
-          easy_width = int((easy / total) * 300)
-          medium_width = int((medium / total) * 300)
-          hard_width = int((hard / total) * 300)
+          # Max width is 260px for the right-side bars
+          easy_width = int((easy / total) * 260)
+          medium_width = int((medium / total) * 260)
+          hard_width = int((hard / total) * 260)
 
-          # Notice the double braces {{ }} for CSS inside Python f-strings!
           svg_content = f"""<svg width="500" height="250" viewBox="0 0 500 250" fill="none" xmlns="http://www.w3.org/2000/svg">
             <defs>
-              <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#0B0C10" />
-                <stop offset="50%" stop-color="#1A1A2E" />
-                <stop offset="100%" stop-color="#16213E" />
+              <linearGradient id="blood-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#4a0000" />
+                <stop offset="50%" stop-color="#8a0303" />
+                <stop offset="100%" stop-color="#ff0000" />
               </linearGradient>
               
-              <linearGradient id="easy-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#00b09b" />
-                <stop offset="100%" stop-color="#96c93d" />
-              </linearGradient>
-              <linearGradient id="med-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#f7b733" />
-                <stop offset="100%" stop-color="#fc4a1a" />
-              </linearGradient>
-              <linearGradient id="hard-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#ed213a" />
-                <stop offset="100%" stop-color="#93291e" />
-              </linearGradient>
-
-              <linearGradient id="meteor" x1="100%" y1="0%" x2="0%" y2="100%">
-                <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
-                <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
-              </linearGradient>
+              <filter id="glow">
+                <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+                <feMerge>
+                  <feMergeNode in="coloredBlur"/>
+                  <feMergeNode in="SourceGraphic"/>
+                </feMerge>
+              </filter>
             </defs>
 
             <style>
-              .title {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 22px; fill: #E94560; text-shadow: 0px 0px 10px rgba(233, 69, 96, 0.5); }}
-              .total-text {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 800; font-size: 46px; fill: #FFFFFF; }}
-              .total-label {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 12px; fill: #A0A5B5; text-transform: uppercase; letter-spacing: 2px; }}
-              .stat-label {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 600; font-size: 14px; fill: #D1D5DB; }}
-              .stat-value {{ font-family: 'Segoe UI', Ubuntu, sans-serif; font-weight: 700; font-size: 14px; fill: #FFFFFF; }}
+              .gothic {{ font-family: 'Times New Roman', serif; font-weight: 900; }}
+              .typewriter {{ font-family: 'Courier New', Courier, monospace; font-weight: bold; }}
               
-              /* Load In Animation */
-              @keyframes slideIn {{
+              /* Animations */
+              @keyframes flicker {{
+                0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {{ opacity: 1; text-shadow: 0 0 8px #ff0000; }}
+                20%, 22%, 24%, 55% {{ opacity: 0; text-shadow: none; }}
+              }}
+              
+              @keyframes heartbeat {{
+                0% {{ transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }}
+                14% {{ transform: scale(1.05); filter: drop-shadow(0 0 10px #ff0000); }}
+                28% {{ transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }}
+                42% {{ transform: scale(1.05); filter: drop-shadow(0 0 10px #ff0000); }}
+                70% {{ transform: scale(1); filter: drop-shadow(0 0 2px #ff0000); }}
+              }}
+
+              @keyframes inkBleed {{
                 from {{ width: 0; opacity: 0; }}
                 to {{ opacity: 1; }}
               }}
-              
-              /* Glowing Breathing Animation */
-              @keyframes pulseGlow {{
-                0% {{ filter: drop-shadow(0 0 2px rgba(255,255,255,0.2)); }}
-                50% {{ filter: drop-shadow(0 0 8px rgba(255,255,255,0.6)); }}
-                100% {{ filter: drop-shadow(0 0 2px rgba(255,255,255,0.2)); }}
+
+              @keyframes typeIn {{
+                from {{ opacity: 0; transform: translateX(-10px); }}
+                to {{ opacity: 1; transform: translateX(0); }}
               }}
 
-              /* Shooting Star Animation */
-              @keyframes fall {{
-                0% {{ transform: translate(400px, -100px); opacity: 1; }}
-                100% {{ transform: translate(-200px, 400px); opacity: 0; }}
-              }}
+              .flicker-text {{ animation: flicker 4s infinite; fill: #d40000; }}
+              .pulse-number {{ transform-origin: 30px 180px; animation: heartbeat 2s infinite; fill: #ffffff; }}
               
-              /* Blinking Stars */
-              @keyframes twinkle {{
-                0%, 100% {{ opacity: 0.2; }}
-                50% {{ opacity: 0.8; transform: scale(1.2); }}
-              }}
+              .rule-text {{ fill: #888888; font-size: 9px; opacity: 0; animation: typeIn 1s forwards; }}
               
-              .bar-easy {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards, pulseGlow 3s infinite alternate 1.5s; }}
-              .bar-medium {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.2s, pulseGlow 3s infinite alternate 1.7s; opacity: 0; }}
-              .bar-hard {{ animation: slideIn 1.5s cubic-bezier(0.25, 1, 0.5, 1) forwards 0.4s, pulseGlow 3s infinite alternate 1.9s; opacity: 0; }}
-              
-              .meteor-1 {{ animation: fall 4s linear infinite; }}
-              .meteor-2 {{ animation: fall 5s linear infinite 2s; }}
-              .meteor-3 {{ animation: fall 6s linear infinite 1s; }}
-              
-              .star {{ animation: twinkle 3s infinite ease-in-out; }}
+              .ink-easy {{ animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1s; opacity: 0; }}
+              .ink-medium {{ animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1.3s; opacity: 0; }}
+              .ink-hard {{ animation: inkBleed 1.5s cubic-bezier(0.1, 0.9, 0.2, 1) forwards 1.6s; opacity: 0; }}
             </style>
 
-            <rect width="500" height="250" rx="15" fill="url(#sky)" />
+            <rect width="500" height="250" fill="#030303" />
 
-            <circle cx="50" cy="50" r="1" fill="#FFF" class="star" style="animation-delay: 0s;" />
-            <circle cx="150" cy="30" r="1.5" fill="#FFF" class="star" style="animation-delay: 1s;" />
-            <circle cx="350" cy="80" r="1" fill="#FFF" class="star" style="animation-delay: 0.5s;" />
-            <circle cx="450" cy="40" r="2" fill="#FFF" class="star" style="animation-delay: 1.5s;" />
-            <circle cx="80" cy="200" r="1" fill="#FFF" class="star" style="animation-delay: 0.2s;" />
+            <text x="250" y="220" class="gothic" font-size="200" fill="#0a0a0a" text-anchor="middle" font-style="italic">L.C.</text>
 
-            <g class="meteor-1"><line x1="0" y1="0" x2="-40" y2="40" stroke="url(#meteor)" stroke-width="2" stroke-linecap="round"/></g>
-            <g class="meteor-2"><line x1="0" y1="0" x2="-60" y2="60" stroke="url(#meteor)" stroke-width="1.5" stroke-linecap="round"/></g>
-            <g class="meteor-3"><line x1="0" y1="0" x2="-30" y2="30" stroke="url(#meteor)" stroke-width="2.5" stroke-linecap="round"/></g>
-
-            <text x="35" y="45" class="title">Algorithm Mastery</text>
+            <text x="25" y="45" class="gothic flicker-text" font-size="28" letter-spacing="2">LEETCODE NOTE</text>
             
-            <g transform="translate(35, 110)">
-              <text x="0" y="0" class="total-text">{easy + medium + hard}</text>
-              <text x="0" y="25" class="total-label">Problems Solved</text>
+            <text x="25" y="70" class="typewriter rule-text" style="animation-delay: 0.2s;" fill="#ffffff">How to use it:</text>
+            <text x="25" y="85" class="typewriter rule-text" style="animation-delay: 0.5s;">The problem whose algorithm is</text>
+            <text x="25" y="98" class="typewriter rule-text" style="animation-delay: 0.7s;">written in this repository</text>
+            <text x="25" y="111" class="typewriter rule-text" style="animation-delay: 0.9s;">shall be solved.</text>
+
+            <g transform="translate(25, 160)">
+              <text x="0" y="0" class="typewriter" font-size="12" fill="#d40000" filter="url(#glow)">TOTAL ELIMINATED</text>
+              <text x="0" y="45" class="gothic pulse-number" font-size="52">{total}</text>
             </g>
 
-            <g transform="translate(170, 70)">
-              <text x="0" y="0" class="stat-label">Easy</text>
-              <text x="290" y="0" class="stat-value" text-anchor="end">{easy}</text>
-              <rect x="0" y="12" width="290" height="8" rx="4" fill="#0B0C10" stroke="#1A1A2E"/>
-              <rect class="bar-easy" x="0" y="12" width="{easy_width}" height="8" rx="4" fill="url(#easy-grad)"/>
+            <line x1="200" y1="30" x2="200" y2="220" stroke="#1a0000" stroke-width="2" />
+
+            <g transform="translate(220, 50)">
+              <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Casualties (Easy)</text>
+              <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">{easy}</text>
+              <rect x="0" y="10" width="260" height="6" fill="#111111" />
+              <rect class="ink-easy" x="0" y="10" width="{easy_width}" height="6" fill="#008a3e" />
             </g>
 
-            <g transform="translate(170, 130)">
-              <text x="0" y="0" class="stat-label">Medium</text>
-              <text x="290" y="0" class="stat-value" text-anchor="end">{medium}</text>
-              <rect x="0" y="12" width="290" height="8" rx="4" fill="#0B0C10" stroke="#1A1A2E"/>
-              <rect class="bar-medium" x="0" y="12" width="{medium_width}" height="8" rx="4" fill="url(#med-grad)"/>
+            <g transform="translate(220, 110)">
+              <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Targets (Medium)</text>
+              <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">{medium}</text>
+              <rect x="0" y="10" width="260" height="6" fill="#111111" />
+              <rect class="ink-medium" x="0" y="10" width="{medium_width}" height="6" fill="#d47900" />
             </g>
 
-            <g transform="translate(170, 190)">
-              <text x="0" y="0" class="stat-label">Hard</text>
-              <text x="290" y="0" class="stat-value" text-anchor="end">{hard}</text>
-              <rect x="0" y="12" width="290" height="8" rx="4" fill="#0B0C10" stroke="#1A1A2E"/>
-              <rect class="bar-hard" x="0" y="12" width="{hard_width}" height="8" rx="4" fill="url(#hard-grad)"/>
+            <g transform="translate(220, 170)">
+              <text x="0" y="0" class="gothic" font-size="14" fill="#a0a0a0">Special Grade (Hard)</text>
+              <text x="260" y="0" class="typewriter" font-size="14" fill="#ffffff" text-anchor="end">{hard}</text>
+              <rect x="0" y="10" width="260" height="6" fill="#111111" />
+              <rect class="ink-hard" x="0" y="10" width="{hard_width}" height="6" fill="url(#blood-gradient)" filter="url(#glow)"/>
             </g>
+
           </svg>
           """
 
           with open("leetcode-stats.svg", "w", encoding="utf-8") as f:
               f.write(svg_content)
+          print("Death Note SVG generated successfully!")
           EOF
+
+      - name: Run Script
+        run: python generate_svg.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add leetcode-stats.svg
+          
+          if git diff --staged --quiet; then
+            echo "No stats changes to commit."
+          else
+            git commit -m "docs: generate Death Note animated LeetCode stats SVG"
+            git push origin ${{ github.ref_name }}
+          fi
