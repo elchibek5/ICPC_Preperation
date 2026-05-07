@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./leetcode-stats.svg" alt="LeetCode Note Stats" />
+  <img src="./leetcode-stats.svg?v=1" alt="LeetCode Note Stats" />
 </div>
 
 <br>
