@@ -3,19 +3,16 @@ import re
 
 target_dir = "LeetCode_Problems/Java"
 
-# 1. LIGHTWEIGHT FORMATTER (No dictionary, just ensures "0000. Name.java")
+# 1. LIGHTWEIGHT FORMATTER
 if os.path.exists(target_dir):
     for root, dirs, files in os.walk(target_dir):
         for filename in files:
             if not filename.endswith('.java'): continue
-            
-            # Extracts the number and the name, and forces perfect spacing
             match = re.match(r'^(\d+)\s*\.?\s*(.*\.java)$', filename)
             if match:
                 num = match.group(1).zfill(4)
                 rest = match.group(2).strip()
                 new_name = f"{num}. {rest}"
-                
                 if new_name != filename:
                     os.rename(os.path.join(root, filename), os.path.join(root, new_name))
 
@@ -93,21 +90,21 @@ svg_content = f"""<svg width="800" height="400" viewBox="0 0 800 400" fill="none
 
   <line x1="310" y1="40" x2="310" y2="360" stroke="#1a0000" stroke-width="3" />
 
-  <g transform="translate(350, 135)">
+  <g transform="translate(350, 170)">
     <text x="0" y="0" class="gothic" font-size="22" fill="#a0a0a0">Casualties (Easy)</text>
     <text x="440" y="0" class="typewriter" font-size="22" fill="#ffffff" text-anchor="end">{easy}</text>
     <rect x="0" y="15" width="440" height="10" fill="#111111" />
     <rect class="ink-easy" x="0" y="15" width="{easy_width}" height="10" fill="#008a3e" />
   </g>
 
-  <g transform="translate(350, 235)">
+  <g transform="translate(350, 250)">
     <text x="0" y="0" class="gothic" font-size="22" fill="#a0a0a0">Targets (Medium)</text>
     <text x="440" y="0" class="typewriter" font-size="22" fill="#ffffff" text-anchor="end">{medium}</text>
     <rect x="0" y="15" width="440" height="10" fill="#111111" />
     <rect class="ink-medium" x="0" y="15" width="{medium_width}" height="10" fill="#d47900" />
   </g>
 
-  <g transform="translate(350, 335)">
+  <g transform="translate(350, 330)">
     <text x="0" y="0" class="gothic" font-size="22" fill="#a0a0a0">Special Grade (Hard)</text>
     <text x="440" y="0" class="typewriter" font-size="22" fill="#ffffff" text-anchor="end">{hard}</text>
     <rect x="0" y="15" width="440" height="10" fill="#111111" />
